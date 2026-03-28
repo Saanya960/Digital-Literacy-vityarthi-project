@@ -8,8 +8,18 @@ Saanya Mittal
 25BCE10570
 # Module 1 
 **Link**-https://www.canva.com/design/DAHEx4y-geU/99hDwUu5MtgR2I5aJo_wWw/edit?utm_content=DAHEx4y-geU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## Description
+This module focuses on building basic digital literacy skills, especially in creating and delivering effective presentations using modern tools.
+The module begins with an Introduction to Digital Literacy, emphasizing the importance of using digital tools efficiently for communication and academic/professional tasks.
+It then provides hands-on exposure to various presentation and collaboration tools:
+Cooltext – Used for generating creative and visually appealing text designs.
+Prezi – Introduces dynamic, non-linear presentation styles for engaging storytelling.
+Miro – A collaborative whiteboard tool useful for brainstorming, planning, and teamwork.
+Canva – A design platform for creating visually rich presentations, posters, and graphics.
+GIF tools – Helps in adding animations to make presentations more interactive and engaging.
 
+Overall, this module enhances the ability to create visually appealing, interactive, and professional presentations, improving both creativity and communication skills. It also encourages the use of digital platforms for collaboration and effective content delivery.
 # Module 2
-## Task 2
+
 
 
