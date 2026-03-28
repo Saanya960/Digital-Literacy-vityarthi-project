@@ -22,7 +22,7 @@ Overall, this module enhances the ability to create visually appealing, interact
 # Module 2
 **Link**-
 Linkedin-https://www.linkedin.com/in/saanya-mittal-cse-branch/
-Github profile-
+Github profile-https://github.com/Saanya960
 Stackoverflow-https://meta.stackexchange.com/users/1890190/saanya-mittal-25bce10570
 ## Description
 In this module, I focused on creating and managing my professional digital presence across various platforms. I explored platforms like LinkedIn, GitHub, Stack Overflow, Kaggle, and others. I learned how to build a strong online profile by adding educational details, skills, and projects. This module helped me understand the importance of maintaining a professional identity online and how these platforms can be used for networking, collaboration, and knowledge sharing.
