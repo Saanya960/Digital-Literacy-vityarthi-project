@@ -20,6 +20,34 @@ GIF tools – Helps in adding animations to make presentations more interactive 
 
 Overall, this module enhances the ability to create visually appealing, interactive, and professional presentations, improving both creativity and communication skills. It also encourages the use of digital platforms for collaboration and effective content delivery.
 # Module 2
+**Link**-
+Linkedin-https://www.linkedin.com/in/saanya-mittal-cse-branch/
+Github profile-
+Stackoverflow-https://meta.stackexchange.com/users/1890190/saanya-mittal-25bce10570
+## Description
+In this module, I focused on creating and managing my professional digital presence across various platforms. I explored platforms like LinkedIn, GitHub, Stack Overflow, Kaggle, and others. I learned how to build a strong online profile by adding educational details, skills, and projects. This module helped me understand the importance of maintaining a professional identity online and how these platforms can be used for networking, collaboration, and knowledge sharing.
 
+Overall, it enhanced my ability to showcase my work and connect with the technical community.
+# Module 3
+**Link**-
+Hackerrank Profile-https://www.hackerrank.com/profile/m_saanyak
+Google form link-https://docs.google.com/forms/d/e/1FAIpQLScAasAKZSPcwwFdmrfCI8QBwcoCrc8mJrAJu--pqlOc5tQBAQ/viewform?usp=publish-editor
+# Description
+In this module, I explored tools that support collaboration and coding practice. I worked with platforms like Google Workspace (including Docs, Sheets, Slides, and Forms) to create, share, and manage content efficiently. I also practiced coding on platforms such as HackerRank by solving beginner-level problems. 
 
+This module improved my problem-solving skills, teamwork, and ability to use digital tools for academic tasks. It also highlighted the importance of collaboration and continuous learning in a digital environment.
+# Module 4
+## Description
+This module focuses on professional and responsible communication in digital environments. It explains the importance of email etiquette, such as using clear subject lines, proper greetings, concise content, and polite tone to maintain professionalism. It also covers guidelines for writing effective emails, including structure (introduction, body, conclusion) and formatting for readability.
+
+Also, the module highlights workplace etiquette, emphasizing respectful communication, timely responses, and appropriate behavior in professional settings. It extends these principles to social media etiquette, teaching users to post responsibly, avoid offensive content, maintain privacy, and build a positive digital presence.
+
+Overall, the module develops communication skills necessary for academic and professional success
+# Module 5
+## Description
+This module provides awareness about various types of cyber crimes, including hacking, phishing, identity theft, and online scams. It explains how cyber crimes occur in both financial domains (e.g., online banking fraud, credit card scams) and at a personal level (e.g., social media misuse, data theft).
+
+The module introduces a cyber crime flowchart, helping learners understand how attacks are planned and executed. It also emphasizes prevention measures, such as using strong passwords, enabling two-factor authentication, avoiding suspicious links, and protecting personal information online.
+
+Overall, this module builds awareness and equips individuals with practical knowledge to stay safe and secure in the digital world.
 
