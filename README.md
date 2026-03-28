@@ -1,2 +1,15 @@
 # Digital-Literacy-vityarthi-project
-By-Saanya Mittal
+# Project Overview
+In this project, I was assigned the role of a Student Digital Ambassador in my college. The responsibility of this role is to guide fellow students in understanding and using digital platforms effectively and safely. This includes helping them create professional online profiles, communicate responsibly, and stay aware of cyber risks. As part of this role, I was required to build a Digital Literacy Portfolio that demonstrates practical knowledge and awareness of essential digital skills, which would be presented to faculty and shared with my batchmates.
+This project focuses on developing digital literacy through practical activities across multiple platforms and real-world scenarios. It includes creating professional profiles on GitHub, LinkedIn, and Stack Overflow, practicing coding on platforms like HackerRank/CodeChef/HackerEarth, and designing a Google Form quiz to spread awareness about digital literacy. Additionally, the project covers important communication skills such as writing professional emails and understanding responsible social media behavior through do’s and don’ts.
+The project also emphasizes cybersecurity awareness by analyzing cybercrime scenarios and learning safe online practices. Overall, this portfolio helps in building technical, professional, and ethical digital skills that are essential for academic growth and future career development.
+# Author
+Saanya Mittal
+25BCE10570
+# Module 1 
+**Link**-https://www.canva.com/design/DAHEx4y-geU/99hDwUu5MtgR2I5aJo_wWw/edit?utm_content=DAHEx4y-geU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# Module 2
+## Task 2
+
+
